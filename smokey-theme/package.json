@@ -1,0 +1,10 @@
+{
+  "name": "smokey-theme",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@shopify/slate-tools": "0.13.0"
+  },
+  "dependencies": {
+    "@shopify/theme-sections": "^1.0.0-alpha.3"
+  }
+}
